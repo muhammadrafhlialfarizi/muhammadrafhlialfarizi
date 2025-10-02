@@ -1,5 +1,11 @@
-## Hi there 👋
+# **Profil Muhammad Rafhli Alfarizi**
+## Hai Semuanya 👋
 
+Perkenalkan nama saya Muhammad Rafhli Alfarizi, saat ini saya sedang berkuliah di Universital Linggabuana PGRI Sukabumi dengan mengambil prodi Informatika, saya mulai berkuliah pada tahun 2023 bulan November
+
+Dalam dunia TI, saya memiliki minat dalam bidang Web Developer dan Cyber Security, saat ini saya sedang mendalami bidang Web Developer
+
+Untuk saat ini saya sudah mulai menguasai HTML, CSS, JS, PHP, dan C++. semua hal itu saya dapatkan dari berlajar di perkuliahan, youtube dan internet
 <!--
 **muhammadrafhlialfarizi/muhammadrafhlialfarizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
